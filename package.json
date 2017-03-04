@@ -1,0 +1,15 @@
+{
+  "name": "header-service",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a-mt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
